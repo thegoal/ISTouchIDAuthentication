@@ -14,11 +14,11 @@
         var authManager:AuthManager? = AuthManager()
         authManager?.delegate = self
   
-#### 3 - Implement delegate method
+#### 3 - Implement delegate method.
     
     func didAuthenticate(manger:AuthManager,message: String) {
     }
     
-#### 4 - Call authnicate method and get status message in delegate
+#### 4 - Call authenticate method and get status message in delegate.
 
     authManager?.authWithTouchID()
