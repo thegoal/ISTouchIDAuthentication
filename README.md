@@ -1,7 +1,7 @@
 # Touch Id iOS // Change of Thumb or Finger detection // using iOS LocalAuthentication framework
 # Swift 5.0
 
-#####  A drop in solution for Touch Id Authentication Management.This utility allowss to use touch id in your application and detect if there is change in registered thumb or finger.
+#####  A drop in solution for Touch Id Authentication Management.This utility allows you to use touch id in your application and detect, if there is a change in registered thumb or finger.
 
 ##### Demo project is added too.
 
